@@ -1,0 +1,24 @@
+-classpath
+'E:/artwork/github/commons/commons-serializer/target/classes;E:/artwork/maven/repository/org/slf4j/jul-to-slf4j/1.7.7/jul-to-slf4j-1.7.7.jar;E:/artwork/maven/repository/org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2.jar;E:/artwork/maven/repository/com/esotericsoftware/reflectasm/1.10.1/reflectasm-1.10.1.jar;E:/artwork/maven/repository/org/ow2/asm/asm/5.0.3/asm-5.0.3.jar;E:/artwork/maven/repository/org/apache/commons/commons-pool2/2.3/commons-pool2-2.3.jar;E:/artwork/maven/repository/org/slf4j/log4j-over-slf4j/1.7.7/log4j-over-slf4j-1.7.7.jar;E:/artwork/maven/repository/ch/qos/logback/logback-core/1.1.2/logback-core-1.1.2.jar;E:/artwork/maven/repository/com/fasterxml/jackson/core/jackson-databind/2.3.3/jackson-databind-2.3.3.jar;E:/artwork/maven/repository/com/esotericsoftware/kryo/3.0.3/kryo-3.0.3.jar;E:/artwork/maven/repository/org/objenesis/objenesis/2.1/objenesis-2.1.jar;E:/artwork/maven/repository/com/esotericsoftware/minlog/1.3.0/minlog-1.3.0.jar;E:/artwork/maven/repository/com/google/protobuf/protobuf-java/2.6.1/protobuf-java-2.6.1.jar;E:/artwork/maven/repository/com/alibaba/fastjson/1.1.15/fastjson-1.1.15.jar;E:/artwork/maven/repository/com/fasterxml/jackson/core/jackson-annotations/2.3.0/jackson-annotations-2.3.0.jar;E:/artwork/maven/repository/de/ruedigermoeller/fst/2.43/fst-2.43.jar;E:/artwork/maven/repository/org/javassist/javassist/3.19.0-GA/javassist-3.19.0-GA.jar;E:/artwork/maven/repository/org/slf4j/jcl-over-slf4j/1.7.7/jcl-over-slf4j-1.7.7.jar;E:/artwork/maven/repository/org/slf4j/slf4j-api/1.7.7/slf4j-api-1.7.7.jar;E:/artwork/maven/repository/ch/qos/logback/logback-classic/1.1.2/logback-classic-1.1.2.jar;E:/artwork/maven/repository/de/javakaffee/kryo-serializers/0.37/kryo-serializers-0.37.jar;E:/artwork/maven/repository/com/fasterxml/jackson/module/jackson-module-jaxb-annotations/2.3.3/jackson-module-jaxb-annotations-2.3.3.jar;E:/artwork/maven/repository/com/fasterxml/jackson/core/jackson-core/2.3.3/jackson-core-2.3.3.jar;E:/artwork/maven/repository/com/google/guava/guava/17.0/guava-17.0.jar'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'E:/artwork/github/commons/commons-serializer/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2017. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'E:/artwork/github/commons/commons-serializer/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'com.github.benhaixiao:commons-serializer 0.0.0 API'
+-linkoffline
+'http://docs.oracle.com/javase/7/docs/api' 'E:/artwork/github/commons/commons-serializer/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'com.github.benhaixiao:commons-serializer 0.0.0 API'
